@@ -1,0 +1,9 @@
+.container {
+    text-align: center;
+    padding-top: 150px;
+}
+
+#value {
+    font-size: 70px;
+    font-weight: 600;
+}
